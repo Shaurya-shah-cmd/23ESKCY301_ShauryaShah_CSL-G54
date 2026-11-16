@@ -1,0 +1,18 @@
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 55466): [SSL: HTTP_REQUEST] http request (_ssl.c:1028)"}
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 59458): [SSL: HTTP_REQUEST] http request (_ssl.c:1028)"}
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 60788): [SSL: HTTP_REQUEST] http request (_ssl.c:1028)"}
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 62359): [SSL: HTTP_REQUEST] http request (_ssl.c:1028)"}
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 65250): [SSL: HTTP_REQUEST] http request (_ssl.c:1028)"}
+{"username": "unknown", "action": "CONNECTION_ERROR", "detail": "('127.0.0.1', 52691): [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)"}
+{"username": "student", "action": "LOGIN_SUCCESS", "detail": "('127.0.0.1', 55930)"}
+{"username": "student", "action": "LIST", "detail": "0 files"}
+{"username": "student", "action": "UPLOAD", "detail": "README.md (2200 bytes)"}
+{"username": "student", "action": "LIST", "detail": "1 files"}
+{"username": "student", "action": "UPLOAD", "detail": "TEST_CASES.md (1229 bytes)"}
+{"username": "student", "action": "LIST", "detail": "2 files"}
+{"username": "student", "action": "DOWNLOAD", "detail": "README.md (2200 bytes)"}
+{"username": "student", "action": "LIST", "detail": "2 files"}
+{"username": "student", "action": "QUIT", "detail": "Client disconnected"}
+{"username": "student", "action": "LOGIN_SUCCESS", "detail": "('127.0.0.1', 64012)"}
+{"username": "student", "action": "LIST", "detail": "2 files"}
+{"username": "student", "action": "QUIT", "detail": "Client disconnected"}
